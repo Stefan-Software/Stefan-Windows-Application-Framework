@@ -46,12 +46,3 @@ We strongly encourage users to employ SWAF for ethical and legal purposes. It is
 The developers and maintainers of SWAF disclaim all liability for any damages or losses resulting from the use or inability to use the framework. This includes, but is not limited to, direct, indirect, incidental, consequential, or punitive damages.
 
 SWAF is a peice of "experimental software", we are not here to replace any big framework, yet to provide an easy way to develop other "open-source" apps and internally used software by private entities
-
-## Reporting Misuse
-
-If you become aware of any misuse of [Your Framework Name], we encourage you to report it promptly to [your contact information or a dedicated reporting channel].
-
-By using [Your Framework Name], you agree to the terms and conditions outlined in this disclaimer.
-
-**Note:** This disclaimer is subject to change without notice. It is your responsibility to review and understand the most current version of this disclaimer. We will try our best to inform everyone of changes, through social media accounts.
-
